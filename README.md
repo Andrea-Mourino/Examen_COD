@@ -8,7 +8,7 @@
 
 ## Cuando terminemos esto nos pondremos ahora con el diagrama de flujo
 
-Creamos un draw.io y empezamos a hacer el diagrama de flujo como esta en pantalla
+Creamos un draw.io y empezamos a hacer el diagrama de flujo como está en pantalla
 
 ![Captura de pantalla_2024-12-13_09-35-57](https://github.com/user-attachments/assets/6ef9b28d-5160-4edb-9019-5fef78ab905b)
 
