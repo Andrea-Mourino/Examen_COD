@@ -12,13 +12,13 @@ Creamos un draw.io y empezamos a hacer el diagrama de flujo como está en pantal
 
 ![Captura de pantalla_2024-12-13_09-35-57](https://github.com/user-attachments/assets/6ef9b28d-5160-4edb-9019-5fef78ab905b)
 
-1. Primero cree una tabla llamada "Tablero" y use dos **for** para recorrer las filas y columnas 
+1. Primero poner un comentario explicando de que va el programa y su version y author para luego creear una tabla llamada "Tablero" y use dos **for** para recorrer las filas y columnas 
 
 2. Seguido agrege un **if** en caso de que la tabla este vacia y si no, contar tanto las fichas negras y blancas en el tablero.
 
 3. Para terminar agrege un **if else** para determinar si las fichas blancas iban ganando o perdiendo contra las negras y un else por si iban empate
 
-4. Por cada modificaion no olvidarse de hacer GIT y +ADD para luego seleccionar el class con el que estoy trabajando y hacer commit
+4. Por cada modificacion no olvidarse de hacer GIT y +ADD para luego seleccionar el class con el que estoy trabajando y hacer commit
 
 ## Codificacion
 
