@@ -24,8 +24,6 @@ Creamos un draw.io y empezamos a hacer el diagrama de flujo como está en pantal
 
 
         public class Codificacion {
-        }
-        public class Damas {
             public static void main(String[] args) {
             // Representación del tablero:
             // 'B' = ficha del jugador blanco
