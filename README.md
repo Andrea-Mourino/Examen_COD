@@ -17,6 +17,8 @@ Creamos un draw.io y empezamos a hacer el diagrama de flujo como esta en pantall
 
 3. Para terminar agrege un **if else** para determinar si las fichas blancas iban ganando o perdiendo contra las negras y un else por si iban empate
 
+4. Por cada modificaion no olvidarse de hacer GIT y +ADD para luego seleccionar el class con el que estoy trabajando y hacer commit
+
 ## Codificacion
 
 
