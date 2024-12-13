@@ -13,9 +13,9 @@ Creamos un draw.io y empezamos a hacer el diagrama de flujo como esta en pantall
 
 Primero cree una tabla llamada "Tablero" y use dos for para recorrer las filas y columnas 
 
-Seguido agrege un if en caso de que la tabla este vacia y si no, contar tanto las fichas negras y blancas en el tablero.
+Seguido agrege un **if** en caso de que la tabla este vacia y si no, contar tanto las fichas negras y blancas en el tablero.
 
-Para terminar agrege un if else para determinar si las fichas blancas iban ganando o perdiendo contra las negras y un else por si iban empate
+Para terminar agrege un **if else** para determinar si las fichas blancas iban ganando o perdiendo contra las negras y un else por si hiban empate
 
 Visualmente se veria algo asi
 
