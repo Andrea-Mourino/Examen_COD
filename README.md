@@ -9,6 +9,7 @@
 ## Cuando terminemos esto nos pondremos ahora con el diagrama de flujo
 
 Creamos un draw.io y empezamos a hacer el diagrama de flujo como esta en pantalla
+
 ![Captura de pantalla_2024-12-13_09-35-57](https://github.com/user-attachments/assets/6ef9b28d-5160-4edb-9019-5fef78ab905b)
 
 1. Primero cree una tabla llamada "Tablero" y use dos for para recorrer las filas y columnas 
