@@ -12,4 +12,4 @@ Creamos un draw.io y empezamos a hacer el diagrama de flujo como esta en pantall
 
 Visualmente se veria algo asi
 
-![Captura de pantalla_2024-12-13_09-03-56](https://github.com/user-attachments/assets/d05d26b4-72ae-4770-a7c6-31c8a1b1faf1)
+![Captura de pantalla_2024-12-13_09-09-01](https://github.com/user-attachments/assets/d7b07ae2-8e27-4e6d-93d3-a32c5c3968e7)
